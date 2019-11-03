@@ -1,0 +1,11 @@
+#main-content .content-tile {
+  height: 2000px;
+  overflow: scroll;
+}
+
+#nav-list > li {
+  font-size: 1.5em;
+  text-align: center;
+  color: rgb(63, 30, 0);
+  background-color: rgba(255, 212, 212, 0.486);
+}
